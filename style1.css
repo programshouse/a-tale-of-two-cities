@@ -31,7 +31,7 @@ body {
   text-align: center;
   color: #fff;
   font-family: "Georgia", serif;
-  background: url("assets/images/bg-oliver.png");
+  background: url("assets/images/.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -92,7 +92,7 @@ body {
       rgba(244, 241, 225, 0.87), 
       rgba(244, 241, 225, 0) 
     ),
-    url("assets/images/img259.jpg");
+    url("assets/images/0.jpg");
   color: #242424;
   overflow-y: auto;
   box-sizing: border-box;
@@ -291,7 +291,7 @@ input[type="number"]::-webkit-outer-spin-button {
   padding: 0;
   position: relative;
   overflow: hidden;
-  background-image: url('assets/images/bg-oliver.png');
+  background-image: url('assets/images/c2.png');
   background-size: cover;
   background-repeat: no-repeat;
 
