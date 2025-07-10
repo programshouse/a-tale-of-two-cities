@@ -31,7 +31,7 @@ body {
   text-align: center;
   color: #fff;
   font-family: "Georgia", serif;
-  background: url("assets/images/.jpg");
+  background: url("assets/images/last.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,9 +56,10 @@ body {
 }
 
 .outro-page img {
-  max-width: 98%;
-  margin: 1.5rem auto;
+    max-width: 135%;
+    margin: -2rem -5rem;
 }
+
 
 .outro-page .footer {
   margin-top: auto;
